@@ -4,7 +4,7 @@
 int main(int argc, char *argv[]) {
     if (argc < 2)
     {
-        path path_to_ftp("C:\\Git\\laba4\\ftp");
+        path path_to_ftp("C:\\laba4\\laba4\\ftp");
         FTPfiles Test(path_to_ftp);
     } else {
         path path_to_ftp(argv[1]);
