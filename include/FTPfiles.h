@@ -1,4 +1,4 @@
-//Copyright 2019 <LinkIvan333>
+//Copyright 2019 <rijiy>
 #ifndef INCLUDE_FTPFILES_HPP_
 #define INCLUDE_FTPFILES_HPP_
 #include <boost/filesystem.hpp>
